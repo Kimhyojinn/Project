@@ -16,3 +16,7 @@ Git : https://github.com/riri0602/riri0602.github.io
 ## Presentation Video
 https://drive.google.com/file/d/1yFe7ccbY8H6NUrWQNDLmXn4jtPCmiCjJ/view?usp=sharing
 
+### ELK Version
+Elasticsearch 7.1.0
+Logstash 7.1.0
+Kibana 7.1.0
