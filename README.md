@@ -1,5 +1,5 @@
 # Project
-Big data processing final project
+Big Data Processing Final Project
 
 2019 서울특별시 대기 환경오염 수치 분석
 
@@ -13,6 +13,6 @@ Git : https://github.com/Kimhyojinn/Project
 
 Git : https://github.com/riri0602/riri0602.github.io
 
-## Presentation video
+## Presentation Video
 https://drive.google.com/file/d/1yFe7ccbY8H6NUrWQNDLmXn4jtPCmiCjJ/view?usp=sharing
 
