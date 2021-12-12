@@ -12,3 +12,7 @@ URL : https://riri0602.github.io/
 Git : https://github.com/Kimhyojinn/Project
 
 Git : https://github.com/riri0602/riri0602.github.io
+
+## Presentation video
+https://drive.google.com/file/d/1yFe7ccbY8H6NUrWQNDLmXn4jtPCmiCjJ/view?usp=sharing
+
