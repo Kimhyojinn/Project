@@ -15,6 +15,7 @@ Git : https://github.com/riri0602/riri0602.github.io
 
 ## Presentation Video
 https://drive.google.com/file/d/1yFe7ccbY8H6NUrWQNDLmXn4jtPCmiCjJ/view?usp=sharing
+* 영상 용량이 큰 관계로 .zip파일로 공유합니다.
 
 ### ELK Version
 Elasticsearch 7.1.0
